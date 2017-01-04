@@ -1,2 +1,2 @@
-# arg_parser
+# Argument Parser
 Argument Parser in C
